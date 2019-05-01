@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-  <title>dwook – in Vanila now</title>
+  <title>join()을 이용한 반복 – dwook – in Vanila now</title>
 
       <meta charset="utf-8" />
     <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
@@ -9,11 +9,40 @@
     <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
 
     
-    <meta name="description" content="in Vanila now">
-    <meta property="og:description" content="in Vanila now" />
+    <meta name="description" content="var megalomaniac = {
+  mastermind : "Brain",
+  henchman: "Pinky",
+  battleCry: function (noOfBrains) {
+    return "They are " + this.henchman + " and the" +
+      Array(noOfBrains + 1).join(" " + this.mastermind);
+  }
+};
+var battleCry = megalomaniac.battleCry(4);
+// "They are Pinky and the Brain Brain Brain Brain Brain"
+// 반복하고 싶은 만큼 빈 배열 만든 다음 join()으로 반복할 내용을 넣음
+
+
+" />
+    <meta property="og:description" content="var megalomaniac = {
+  mastermind : "Brain",
+  henchman: "Pinky",
+  battleCry: function (noOfBrains) {
+    return "They are " + this.henchman + " and the" +
+      Array(noOfBrains + 1).join(" " + this.mastermind);
+  }
+};
+var battleCry = megalomaniac.battleCry(4);
+// "They are Pinky and the Brain Brain Brain Brain Brain"
+// 반복하고 싶은 만큼 빈 배열 만든 다음 join()으로 반복할 내용을 넣음
+
+
+" />
     
     <meta name="author" content="dwook" />
 
+    
+    <meta property="og:title" content="join()을 이용한 반복" />
+    <meta property="twitter:title" content="join()을 이용한 반복" />
     
   <!-- Async font loading -->
 <script>
@@ -77,71 +106,33 @@
 </div>
 
     <div id="main" role="main" class="container">
+      <article class="post">
+  <h1>join()을 이용한 반복</h1>
+
+  <div clsss="meta">
+    <span class="date">
+      2019-05-01
+    </span>
+
+    <ul class="tag">
       
+      <li>
+        <a href="https://dwook.github.io/tags#Idea">
+          Idea
+        </a>
+      </li>
+      
+      <li>
+        <a href="https://dwook.github.io/tags#Array">
+          Array
+        </a>
+      </li>
+      
+    </ul>
+  </div>
 
-<div class="posts">
-  
-    <article class="post">
-      <h1>
-        <a href="/start-jekyll/">Jekyll 세팅할 때 Ruby 부터 문제가 발생할 때</a>
-      </h1>
-
-      <div clsss="meta">
-        <span class="date">
-          2019-05-01
-        </span>
-
-        <ul class="tag">
-          
-          <li>
-            <a href="https://dwook.github.io/tags#Jekyll">
-              Jekyll
-            </a>
-          </li>
-          
-        </ul>
-      </div>
-
-      <div class="entry">
-        <p>새로운 마음으로 블로그를 시작하려는 데, 설치 권한 문제가 발생했다.
-평소처럼 sudo로 해결 될 줄 알았으나 해결이 안되서 구글링을 계속하다가 보니,
-이미 공식 사이트에서 발견한 문제였다.</p>
-
-
-      </div>
-
-      <a href="/start-jekyll/" class="read-more">Read More</a>
-    </article>
-  
-    <article class="post">
-      <h1>
-        <a href="/idea-array/">join()을 이용한 반복</a>
-      </h1>
-
-      <div clsss="meta">
-        <span class="date">
-          2019-05-01
-        </span>
-
-        <ul class="tag">
-          
-          <li>
-            <a href="https://dwook.github.io/tags#Idea">
-              Idea
-            </a>
-          </li>
-          
-          <li>
-            <a href="https://dwook.github.io/tags#Array">
-              Array
-            </a>
-          </li>
-          
-        </ul>
-      </div>
-
-      <div class="entry">
-        <div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">var</span> <span class="nx">megalomaniac</span> <span class="o">=</span> <span class="p">{</span>
+  <div class="entry">
+    <div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">var</span> <span class="nx">megalomaniac</span> <span class="o">=</span> <span class="p">{</span>
   <span class="na">mastermind</span> <span class="p">:</span> <span class="s2">"Brain"</span><span class="p">,</span>
   <span class="na">henchman</span><span class="p">:</span> <span class="s2">"Pinky"</span><span class="p">,</span>
   <span class="na">battleCry</span><span class="p">:</span> <span class="kd">function</span> <span class="p">(</span><span class="nx">noOfBrains</span><span class="p">)</span> <span class="p">{</span>
@@ -154,18 +145,24 @@
 <span class="c1">// 반복하고 싶은 만큼 빈 배열 만든 다음 join()으로 반복할 내용을 넣음</span>
 </code></pre></div></div>
 
+<h6 id="참고">참고</h6>
+<p><a href="https://github.com/mrdavidlaing/javascript-koans">Javascript Koans</a></p>
 
-      </div>
+  </div>
 
-      <a href="/idea-array/" class="read-more">Read More</a>
-    </article>
-  
-</div>
+  <div class="pagination">
+    
+    
+      <span class="next" >
+          <a href="https://dwook.github.io/start-jekyll/">
+            Jekyll 세팅할 때 Ruby 부터 문제가 발생할 때 &#xE001;
+          </a>
+      </span>
+    
+  </div>
 
-<div class="pagination">
   
-  
-</div>
+</article>
 
     </div>
 
