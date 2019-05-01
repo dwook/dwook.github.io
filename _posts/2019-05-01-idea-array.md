@@ -20,5 +20,7 @@ var battleCry = megalomaniac.battleCry(4);
 // 반복하고 싶은 만큼 빈 배열 만든 다음 join()으로 반복할 내용을 넣음
 ```
 
-###### 참고
+
+
+##### 출처
 [Javascript Koans](https://github.com/mrdavidlaing/javascript-koans)
