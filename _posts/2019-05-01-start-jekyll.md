@@ -13,7 +13,9 @@ macOS Mojave 10.14 이상에서 루비 2.3 버전 대가 사용되야 하는데,
 루비가 설치된 기존 경로에는 sudo를 써도 권한 오류가 생긴다.
 **rbenv**를 통해 새 버전의 루비를 깔고 지킬을 설치한다.
 
+
 [Jekyll on macOS](https://jekyllrb.com/docs/installation/macos/)
+
 
 ### 리빙포인트
 > * 포스팅을 위해 문제발생 해결과정을 정리하면서 구글링하자.(오류메시지)
