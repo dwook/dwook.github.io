@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://dwook.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://dwook.github.io/" rel="alternate" type="text/html" /><updated>2019-05-01T23:56:16+09:00</updated><id>https://dwook.github.io/feed.xml</id><title type="html">dwook</title><subtitle>in Vanila now</subtitle><entry><title type="html">join()을 이용한 반복</title><link href="https://dwook.github.io/idea-array/" rel="alternate" type="text/html" title="join()을 이용한 반복" /><published>2019-05-01T00:00:00+09:00</published><updated>2019-05-01T00:00:00+09:00</updated><id>https://dwook.github.io/idea-array</id><content type="html" xml:base="https://dwook.github.io/idea-array/">&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;megalomaniac&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-06-16T15:40:40+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">dwook</title><subtitle>in Vanila now</subtitle><entry><title type="html">바닐라코딩 프렙과정 후기</title><link href="http://localhost:4000/review-vanilla-prep/" rel="alternate" type="text/html" title="바닐라코딩 프렙과정 후기" /><published>2019-06-16T00:00:00+09:00</published><updated>2019-06-16T00:00:00+09:00</updated><id>http://localhost:4000/review-vanilla-prep</id><content type="html" xml:base="http://localhost:4000/review-vanilla-prep/">&lt;p&gt;바닐라코딩 프렙과정이 완전히 끝나지는 않았지만, 부트캠프 입학시험을 보기 위한 과제 5개를 일단 마친 상태에서 
+프렙과정에 대한 후기를 작성해봅니다. 아직 알고리즘 문제해결에 대한 포스팅 과제가 남았습니다.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;JS Koans&lt;/li&gt;
+  &lt;li&gt;Algorithm Problems Set I&lt;/li&gt;
+  &lt;li&gt;Algorithm Problems Set II&lt;/li&gt;
+  &lt;li&gt;What-a-Mole Game&lt;/li&gt;
+  &lt;li&gt;Todo Calendar&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;프리과정에서 위 5개 과제를 기본적으로 해야 합니다. 처음 개발을 접하는 사람들이, &lt;strong&gt;직장을 다니면서&lt;/strong&gt; 프렙과정을 진행하는 것은 추천하지 않습니다. 부트캠프의 프리과정이라고는 하지만, 수업을 듣는 것만으로 바로 과제를 뚝딱뚝딱 해내기는 어려울거에요. 자신의 상황에 맞게 부족한 부분을 독학으로 채워야하는 분위기인데, 회사를 다니면서 이것을 하기가 어렵습니다. 저도 프리과정을 하는 동안 회사에서 돌발일정(?)들이 마구 생겼거든요. 그런 날에 집에 와서 컴퓨터를 켜면 새벽이고.. 내일 또 출근을 해야하고.. 수업날이 다가오죠.. 만약에 프리과정으로 개발을 처음 시작하시려면 직장과 병행하지마세요.&lt;/p&gt;
+
+&lt;p&gt;프리과정을 하는 동안에 이사를 신논현역에서 삼성역쪽으로 이사를 했는데 정말 많이 쾌적해졌습니다. 훨씬 밝아지고, 개인 책상도 넓어지고, 책상마다 개별 콘센트도 있어서 너무 좋아요! 다만 화장실은 여전히 하나라서 한 명이 들어가면 기다려야 하는 방식은 이전과 같습니다ㅠㅠ&lt;/p&gt;
+
+&lt;p&gt;저는 주말반(토요일 수업)을 들었습니다. 평일반에 다니시는 분들이 과제를 내시는 속도도 빠르고, 개발에 좀 더 익숙하신 분들이 많은 것 같습니다. 이전 기수로 추정되는 분들이 주말에도 나와서 작업을 하시더라구요. 이런 분위기 때문에 학원이라는 느낌 보다는 커뮤니티 같은 느낌을 더 주는 것 같습니다. 켄님이 이전 기수분들한테 막 대하는 것을 보면 정말 친한 것 같습니다..^^;&lt;/p&gt;
+
+&lt;p&gt;학습방식은 주요개념을 강의에서 켄님이 전달해주시는 편이고, 과제를 하면서 모르는 것들을 개인적으로 채워나가야 하는 분위기입니다. 물론 뭘 해야할지 모르면 켄님한테 물어보면 됩니다. 스스로 모르는 것들을 찾아서 공부하시는 방식이 아직 형성이 안된 분들은 적응하기 어려울 수도 있을 것 같습니다. 저는 아직 본격 개발자는 아니지만, 어짜피 개발자들은 모르는 것들을 계속 찾아가면서 작업을 해야하기 때문에 미리 체험하기에 좋은 환경이라 생각합니다. 수업내용은 자바스크립트의 주요내용을 켄님 스타일대로 전달해주시는데, 딱딱하지 않고 캐주얼하게 설명해주셔서 좋았습니다. 예를 들어, 프로토타입을 부부와 자식으로 설명을 해주셨는데, 꽤 적절한 것 같습니다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/vanilla-coding/prep-guide&quot;&gt;바닐라코딩 사전 학습 가이드&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="바닐라코딩" /><summary type="html">바닐라코딩 프렙과정이 완전히 끝나지는 않았지만, 부트캠프 입학시험을 보기 위한 과제 5개를 일단 마친 상태에서 프렙과정에 대한 후기를 작성해봅니다. 아직 알고리즘 문제해결에 대한 포스팅 과제가 남았습니다.</summary></entry><entry><title type="html">join()을 이용한 반복</title><link href="http://localhost:4000/idea-array/" rel="alternate" type="text/html" title="join()을 이용한 반복" /><published>2019-05-01T00:00:00+09:00</published><updated>2019-05-01T00:00:00+09:00</updated><id>http://localhost:4000/idea-array</id><content type="html" xml:base="http://localhost:4000/idea-array/">&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;megalomaniac&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
   &lt;span class=&quot;na&quot;&gt;mastermind&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Brain&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
   &lt;span class=&quot;na&quot;&gt;henchman&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Pinky&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
   &lt;span class=&quot;na&quot;&gt;battleCry&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;noOfBrains&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
@@ -12,7 +31,7 @@
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;h5 id=&quot;출처&quot;&gt;출처&lt;/h5&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/mrdavidlaing/javascript-koans&quot;&gt;Javascript Koans&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="Idea" /><category term="Array" /><summary type="html">var megalomaniac = { mastermind : &quot;Brain&quot;, henchman: &quot;Pinky&quot;, battleCry: function (noOfBrains) { return &quot;They are &quot; + this.henchman + &quot; and the&quot; + Array(noOfBrains + 1).join(&quot; &quot; + this.mastermind); } }; var battleCry = megalomaniac.battleCry(4); // &quot;They are Pinky and the Brain Brain Brain Brain Brain&quot; // 반복하고 싶은 만큼 빈 배열 만든 다음 join()으로 반복할 내용을 넣음</summary></entry><entry><title type="html">Jekyll 세팅할 때 Ruby 부터 문제가 발생할 때</title><link href="https://dwook.github.io/start-jekyll/" rel="alternate" type="text/html" title="Jekyll 세팅할 때 Ruby 부터 문제가 발생할 때" /><published>2019-05-01T00:00:00+09:00</published><updated>2019-05-01T00:00:00+09:00</updated><id>https://dwook.github.io/start-jekyll</id><content type="html" xml:base="https://dwook.github.io/start-jekyll/">&lt;p&gt;새로운 마음으로 블로그를 시작하려는 데, 설치 권한 문제가 발생했다.
+&lt;p&gt;&lt;a href=&quot;https://github.com/mrdavidlaing/javascript-koans&quot;&gt;Javascript Koans&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="Idea" /><category term="Array" /><summary type="html">var megalomaniac = { mastermind : &quot;Brain&quot;, henchman: &quot;Pinky&quot;, battleCry: function (noOfBrains) { return &quot;They are &quot; + this.henchman + &quot; and the&quot; + Array(noOfBrains + 1).join(&quot; &quot; + this.mastermind); } }; var battleCry = megalomaniac.battleCry(4); // &quot;They are Pinky and the Brain Brain Brain Brain Brain&quot; // 반복하고 싶은 만큼 빈 배열 만든 다음 join()으로 반복할 내용을 넣음</summary></entry><entry><title type="html">Jekyll 세팅할 때 Ruby 부터 문제가 발생할 때</title><link href="http://localhost:4000/start-jekyll/" rel="alternate" type="text/html" title="Jekyll 세팅할 때 Ruby 부터 문제가 발생할 때" /><published>2019-05-01T00:00:00+09:00</published><updated>2019-05-01T00:00:00+09:00</updated><id>http://localhost:4000/start-jekyll</id><content type="html" xml:base="http://localhost:4000/start-jekyll/">&lt;p&gt;새로운 마음으로 블로그를 시작하려는 데, 설치 권한 문제가 발생했다.
 평소처럼 sudo로 해결 될 줄 알았으나 해결이 안되서 구글링을 계속하다가 보니,
 이미 공식 사이트에서 발견한 문제였다.&lt;/p&gt;
 
@@ -20,12 +39,4 @@
 루비가 설치된 기존 경로에는 sudo를 써도 권한 오류가 생긴다.
 &lt;strong&gt;rbenv&lt;/strong&gt;를 통해 새 버전의 루비를 깔고 지킬을 설치한다.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://jekyllrb.com/docs/installation/macos/&quot;&gt;Jekyll on macOS&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;리빙포인트&quot;&gt;리빙포인트&lt;/h3&gt;
-&lt;blockquote&gt;
-  &lt;ul&gt;
-    &lt;li&gt;포스팅을 위해 문제발생 해결과정을 정리하면서 구글링하자.(오류메시지)&lt;/li&gt;
-    &lt;li&gt;공식문서를 먼저 찾아보자.&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/blockquote&gt;</content><author><name></name></author><category term="Jekyll" /><summary type="html">새로운 마음으로 블로그를 시작하려는 데, 설치 권한 문제가 발생했다. 평소처럼 sudo로 해결 될 줄 알았으나 해결이 안되서 구글링을 계속하다가 보니, 이미 공식 사이트에서 발견한 문제였다.</summary></entry></feed>
+&lt;p&gt;&lt;a href=&quot;https://jekyllrb.com/docs/installation/macos/&quot;&gt;Jekyll on macOS&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="Jekyll" /><summary type="html">새로운 마음으로 블로그를 시작하려는 데, 설치 권한 문제가 발생했다. 평소처럼 sudo로 해결 될 줄 알았으나 해결이 안되서 구글링을 계속하다가 보니, 이미 공식 사이트에서 발견한 문제였다.</summary></entry></feed>

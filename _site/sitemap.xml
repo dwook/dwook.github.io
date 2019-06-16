@@ -1,26 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://dwook.github.io/idea-array/</loc>
+<loc>http://localhost:4000/idea-array/</loc>
 <lastmod>2019-05-01T00:00:00+09:00</lastmod>
 </url>
 <url>
-<loc>https://dwook.github.io/start-jekyll/</loc>
+<loc>http://localhost:4000/start-jekyll/</loc>
 <lastmod>2019-05-01T00:00:00+09:00</lastmod>
 </url>
 <url>
-<loc>https://dwook.github.io/404/</loc>
+<loc>http://localhost:4000/review-vanilla-prep/</loc>
+<lastmod>2019-06-16T00:00:00+09:00</lastmod>
 </url>
 <url>
-<loc>https://dwook.github.io/about/</loc>
+<loc>http://localhost:4000/404/</loc>
 </url>
 <url>
-<loc>https://dwook.github.io/archive/</loc>
+<loc>http://localhost:4000/about/</loc>
 </url>
 <url>
-<loc>https://dwook.github.io/tags/</loc>
+<loc>http://localhost:4000/archive/</loc>
 </url>
 <url>
-<loc>https://dwook.github.io/</loc>
+<loc>http://localhost:4000/tags/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
 </url>
 </urlset>
